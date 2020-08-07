@@ -8,7 +8,7 @@ A passionate Front-end Developer and I don't like Windows for the last 5 years :
 
 
 <p align="center"> 
-  <img src="https://github.com/zvarychkat1/zvarychkat1/blob/master/SouthPark.gif"/>
+  <img src="https://github.com/zvarychkat1/zvarychkat1/blob/master/hello.gif"/>
  
  </p>
 //![image](https://github.com/zvarychkat1/zvarychkat1/blob/master/SouthPark.gif)
