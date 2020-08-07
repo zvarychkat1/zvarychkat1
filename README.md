@@ -1,5 +1,3 @@
-### Hi there 👋
+### ⚡ HI! My name is Kate!
 
-<!--
-⚡ HI! My name is Kate!
--->
+
