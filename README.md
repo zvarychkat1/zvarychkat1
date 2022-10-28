@@ -1,6 +1,6 @@
 
 <h1 align="center">⚡ HI, I'm Kate! </h1>
-<h3 align="center">A passionate Front-end Developer and I don't like Windows for the last 5 years :)  </h3>
+<h3 align="center">A passionate React native Developer and I don't like Windows :)  </h3>
 
 
 <p align="center"> 
